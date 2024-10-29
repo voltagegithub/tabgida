@@ -1,0 +1,28 @@
+﻿@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Titillium Web';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf) format('truetype');
+}

@@ -1,0 +1,1684 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\npm\axios\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Titillium+Web:400,600,700,900&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+Content Type: font/ttf
+
+Uri: https://px.ads.linkedin.com/collect/?pid=4367201&fmt=gif&liSync=true
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\collect\index.htm
+Content Type: image/gif
+
+Uri: https://unpkg.com/imask@7.6.1/dist/imask.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\imask@7.6.1\dist\imask.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=605181593840507&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr-1
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-401346546
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/css/forms.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\forms.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/css/fr-form.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\fr-form.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/css/investors.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\investors.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/css/media-queries.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\media-queries.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/css/menu.css?p=2
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\menu.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/css/site.css
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\css\site.css
+Content Type: text/css
+
+Uri: https://www.tabgida.com.tr/assets/img/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/apple-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\apple-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/ayse-aysin-isikgece.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\ayse-aysin-isikgece.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/caner-alpaslan.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\caner-alpaslan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/caner-dikici.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\caner-dikici.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/CihanBicak.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\CihanBicak.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/erhan-kurdoglu.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\erhan-kurdoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/furkan-unal-2023.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\furkan-unal-2023.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/gokhan-asok-2023.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\gokhan-asok-2023.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/halil-dogan-bolak.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\halil-dogan-bolak.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/korhan-kurdoglu.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\korhan-kurdoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/OzgurCetinkaya.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\OzgurCetinkaya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/sinan-unal.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\sinan-unal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/tarik-mesut-yuzbas.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\tarik-mesut-yuzbas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/bod/ufuk-erhanoglu.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\bod\ufuk-erhanoglu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/arbys.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\arbys.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/burger-king.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\burger-king.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/doner-stop.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\doner-stop.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/nyb.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\nyb.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/popeyes-r.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\popeyes-r.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/popeyes.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\popeyes.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/sbarro.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\sbarro.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/subway-logo.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\subway-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/subway.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\subway.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/usta-donerci-r.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\usta-donerci-r.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/usta-donerci.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\usta-donerci.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/usta-pideci-2020.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\usta-pideci-2020.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/brands/logos/usta-pideci-r.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\brands\logos\usta-pideci-r.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/facebook-active.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\facebook-active.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/facebook.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\facebook.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/instagram-active.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\instagram-active.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/instagram.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\instagram.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/linkedin-active.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\linkedin-active.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/linkedin.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\linkedin.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/nyb-logo2.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\nyb-logo2.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/tab-logo.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\tab-logo.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/top_button.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\top_button.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/twitter-active.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\twitter-active.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/footer/twitter.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\footer\twitter.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/add.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\add.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/avatar.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\avatar.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/delete.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\delete.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/ic_form@2x.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\ic_form@2x.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/img_button@2x.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\img_button@2x.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/radio.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\radio.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/forms/unfold_more.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\forms\unfold_more.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/ENflag.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\ENflag.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/menu-bg.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\menu-bg.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/mobile-menu-trigger-icon-close.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\mobile-menu-trigger-icon-close.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/mobile-menu-trigger-icon.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\mobile-menu-trigger-icon.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/tab-logo.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\tab-logo.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/header/TRflag.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\header\TRflag.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/home/franchise.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\home\franchise.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/home/hero-mask.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\home\hero-mask.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/home/hr02_2021.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\home\hr02_2021.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/home/main_01.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\home\main_01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/home/main_01_mobil.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\home\main_01_mobil.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/career/kariyer-net.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\career\kariyer-net.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/career/linkedin.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\career\linkedin.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/career/secret-cv.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\career\secret-cv.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/career/yenibir-is.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\career\yenibir-is.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/ar.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\ar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/bk.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\bk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/doner-stop.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\doner-stop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_AR.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_AR.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_BK.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_BK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_PP.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_PP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_SB.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_SB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_UD.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_UD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/franchising/TABFR_UP.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\franchising\TABFR_UP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/ar.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\ar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/bk.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\bk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_AR.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_AR.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_BK.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_BK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_PP.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_PP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_SB.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_SB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_UD.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_UD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/franchising/TABFR_UP.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\franchising\TABFR_UP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/pop.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\pop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/sbr.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\sbr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/02.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/03.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/05.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/06.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/08.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/10.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/11.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/12.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/13.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/top_images/surdurulebilirlik.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\top_images\surdurulebilirlik.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/mobile/ud.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\mobile\ud.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/pop.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\pop.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/sbr.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\sbr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/subway.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\subway.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_bg_up.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_bg_up.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/02.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/03.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/05.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/06.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/08.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/10.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/11.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/12.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/13.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/top_images/surdurulebilirlik.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\top_images\surdurulebilirlik.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/header/ud.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\header\ud.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/basin-odasi.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\basin-odasi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/blank.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\blank.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/franchising.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\franchising.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/iletisim.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\iletisim.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/is-basvurusu.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\is-basvurusu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/kurucumuz.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\kurucumuz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/odullerimiz.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\odullerimiz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/sirket-ici-iletisim.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\sirket-ici-iletisim.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/surdurulebilirlik.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\surdurulebilirlik.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/tab-akademi.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\tab-akademi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/pages/left/tabgida-hakkinda.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\pages\left\tabgida-hakkinda.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/assets/img/social/facebook.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\facebook.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/social/instagram.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\instagram.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/social/pinterest.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\pinterest.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/social/twitter.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\twitter.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/social/url.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\url.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/img/social/youtube.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\img\social\youtube.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/assets/js/cookie-consent.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\cookie-consent.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/fr-form.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\fr-form.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/head-js9580.js?v=_DxtO4r8kvOpQDrz60Q_zI86aMQ3DYB43FqAaZhuhs41
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\head-js9580.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/head/functions.min1cd4.js?v=Ww3aBDQbDEV2vEdGVzJW2KM5f2c23pMhkguIlMdNKxc1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\head\functions.min1cd4.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/head/mina24a.js?v=lVoHlPYgMOi2CwvxTy6-ThSuytbXBci3vDgmr0iJMHk1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\head\mina24a.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/library/jquery.min37ac.js?v=aTsB9BLnXQ3D9ATloBQ7eEFHnmJLThZojrC1Coz7R1Q1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\library\jquery.min37ac.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/main/app.min88b0.js?v=u_XkvESGUkZSOI3grAP8aHZZw1Wc5K68VeAZQtGqIwk1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\main\app.min88b0.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/main/validate-helper.minf9c4.js?v=KDE8VlFn04FTHxMe_1lOO7ZccT7qSmyfilafiCPGKbA1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\main\validate-helper.minf9c4.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/plugins/jquery-ui/jquery.ui.widget.min5a46.js?v=8XK1T4I7srMneAn-vAN2Zl8bmJaPUTsAGRrVuuHGrpI1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\plugins\jquery-ui\jquery.ui.widget.min5a46.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/plugins/uploader/jquery.fileupload.min.js?v=vrZQWRoyW7yL_dGuicZ587C0NQCKtCNN3jZfrI4U9Lg1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\plugins\uploader\jquery.fileupload.min.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/plugins/uploader/jquery.iframe-transport.min.js?v=OQqykM9fEr0jthUlZJnbByFBbZzGlVTu6JI7X3jLB_o1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\plugins\uploader\jquery.iframe-transport.min.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/assets/js/vendor-jsf227.js?v=aUTkCBIyw1hSnr14Y-kuV97D4YrnM6H0r5y7Sp78VBE1
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\assets\js\vendor-jsf227.js
+Content Type: application/javascript
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190117_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190117_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190125_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190125_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190125_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190125_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190125_3.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190125_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190128_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190128_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190128_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190128_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190128_3.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190128_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190128_4.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190128_4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190201_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190201_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190204_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190204_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190315_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190315_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190424.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190424.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190507_1.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190507_1.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190507_2.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190507_2.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190531.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190531.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190701_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190701_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190701_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190701_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190702.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190702.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190729_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190729_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190729_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190729_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190802_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190802_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20190809.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20190809.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191017.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191017.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191111.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191206.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191206.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191206.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191206.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/201912094.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\201912094.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191216_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191216_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191216_2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191216_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20191216_3.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20191216_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20200114.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20200114.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20200114_1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20200114_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/20201008.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\20201008.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/211220181639330_report.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\211220181639330_report.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/281220181356180_report.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\281220181356180_report.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/AKIF2294.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\AKIF2294.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/bayimolurmusun-milliyet-1210.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\bayimolurmusun-milliyet-1210.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/bk-zirve-haberturk-effie-2805.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\bk-zirve-haberturk-effie-2805.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/BKBJKBASINTOPLANTISI.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\BKBJKBASINTOPLANTISI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/bklink-hurses-2410.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\bklink-hurses-2410.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/BK_700_acilis.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\BK_700_acilis.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/BloombergBusinessWeek_2.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\BloombergBusinessWeek_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/BUSINESSTURKIYE.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\BUSINESSTURKIYE.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/CanerAlpaslan_atama.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\CanerAlpaslan_atama.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/capital-nilufer-caner-dikici-0109.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\capital-nilufer-caner-dikici-0109.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/CAPITALDERGISI.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\CAPITALDERGISI.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/coolmarka-posta-2610.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\coolmarka-posta-2610.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/dunya-gokhanasok.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\dunya-gokhanasok.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/dunya-ozgur-cetinkaya.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\dunya-ozgur-cetinkaya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/dunya-survivor.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\dunya-survivor.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/DunyaGazetesi.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\DunyaGazetesi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/DunyaGazetesiTR_02042020.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\DunyaGazetesiTR_02042020.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/ekonomist_03.05.2020_95334874.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\ekonomist_03.05.2020_95334874.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/erhan_korhan.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\erhan_korhan.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/Erman_Engiz.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\Erman_Engiz.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/frdunyasi-tesvik-programi-0110.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\frdunyasi-tesvik-programi-0110.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/GokhanAsok.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\GokhanAsok.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/GokhanAsok_2023.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\GokhanAsok_2023.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/GSTABGidaYoneticiler.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\GSTABGidaYoneticiler.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/hr-canerdikici-1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\hr-canerdikici-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/HURRIYETGAZETESI.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\HURRIYETGAZETESI.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/hurriyetik-gokhanasok.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\hurriyetik-gokhanasok.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/HurriyetPazar.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\HurriyetPazar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/IlhanErkanTABGdaFRKoordinatoru.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\IlhanErkanTABGdaFRKoordinatoru.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/IremGulerOzkslal.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\IremGulerOzkslal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/kristalelma_medicat.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\kristalelma_medicat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/lovemarks-mediacat-0111.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\lovemarks-mediacat-0111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/MTR_0128.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\MTR_0128.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/PARADERGISI.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\PARADERGISI.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/para_12.04.2020.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\para_12.04.2020.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/platin-secil-demiralp-1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\platin-secil-demiralp-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/SinanUnal_MT.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\SinanUnal_MT.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/star-burakakin.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\star-burakakin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/TABGdaCFO_OzgurCetinkaya1.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\TABGdaCFO_OzgurCetinkaya1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/TABGIDAGENELMUDURUCANERDIKICI_.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\TABGIDAGENELMUDURUCANERDIKICI_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/TAB_Gda_Franchaise_Direktoru_Erman_Engiz.jpeg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\TAB_Gda_Franchaise_Direktoru_Erman_Engiz.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/TFITABGdaYatrmlarCMO-suSinanUnal.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\TFITABGdaYatrmlarCMO-suSinanUnal.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/press/thebrandage-burakakin-1.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\press\thebrandage-burakakin-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/news/tab_dijital_main.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\news\tab_dijital_main.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/202401/TABGda_Restoran_Saysn_Buyutuyor_17_01_2024-Final.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\202401\TABGda_Restoran_Saysn_Buyutuyor_17_01_2024-Final.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202201/TAB-TAB000127-5_TiklaGelsinAppSamuraiBB170122-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202201\TAB-TAB000127-5_TiklaGelsinAppSamuraiBB170122-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202201/TAB-TAB000127-6_01_26_TAB_HB_KAMPANYA-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202201\TAB-TAB000127-6_01_26_TAB_HB_KAMPANYA-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202202/TAB-TAB000127-7_BKSevgililerGunuKampanyasi_haber_bulteni_final-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202202\TAB-TAB000127-7_BKSevgililerGunuKampanyasi_haber_bulteni_final-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202202/TAB-TAB000127-8_TABTiklaGelsinKampanyaBB210222-edited3-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202202\TAB-TAB000127-8_TABTiklaGelsinKampanyaBB210222-edited3-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202203/Arby_s_Yeni_Reklam_Filmi_BB-tr-en-CONTENTUS.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202203\Arby_s_Yeni_Reklam_Filmi_BB-tr-en-CONTENTUS.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202203/TAB-TAB000127-10_PP_TGEkonomixMenu_vBB-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202203\TAB-TAB000127-10_PP_TGEkonomixMenu_vBB-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202203/TAB-TAB000127-11_BKGastronomiKulubuBB070322-1-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202203\TAB-TAB000127-11_BKGastronomiKulubuBB070322-1-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202203/TAB-TAB000127-12_SbarroMenusuYenilendi_BB-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202203\TAB-TAB000127-12_SbarroMenusuYenilendi_BB-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202203/TAB-TAB000127-9_TiklaGelsinArkadasiniKapGetirKampanyaBB010322-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202203\TAB-TAB000127-9_TiklaGelsinArkadasiniKapGetirKampanyaBB010322-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202204/BKDalinIsbirligiBB180422-yorumlar-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202204\BKDalinIsbirligiBB180422-yorumlar-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202204/BKKingBeefBurgerBB010422-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202204\BKKingBeefBurgerBB010422-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202204/BKWhopperDurumBBv2180422-son-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202204\BKWhopperDurumBBv2180422-son-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202204/TABGIDA_RamazanMenuleriBB-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202204\TABGIDA_RamazanMenuleriBB-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202205/BKDunyaBurgerGunuBB09052022-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202205\BKDunyaBurgerGunuBB09052022-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202205/BKDunyaBurgerGunuKampanyasiBB270522-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202205\BKDunyaBurgerGunuKampanyasiBB270522-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202205/BKWhopperReklamFilmiBB290422-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202205\BKWhopperReklamFilmiBB290422-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202205/Popeyes_ReklamFilmi_BB_edit-tr-en-CONTENTUSCEVIRI.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202205\Popeyes_ReklamFilmi_BB_edit-tr-en-CONTENTUSCEVIRI.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/pressrooms/EN/202206/Genele_TFI_TAB_Basn_Bulteni.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\pressrooms\EN\202206\Genele_TFI_TAB_Basn_Bulteni.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/surdurulebilirlik/TAB-Gida_l-REC_2023.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\surdurulebilirlik\TAB-Gida_l-REC_2023.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/surdurulebilirlik/thumb.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\surdurulebilirlik\thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/surdurulebilirlik/thumb2.jpg
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\surdurulebilirlik\thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.tabgida.com.tr/cmsfiles/surdurulebilirlik/Verification_Statement.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\surdurulebilirlik\Verification_Statement.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/esas-sozlesme.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\esas-sozlesme.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/Q4/en/eng-tab-gida-spk-raporu-31122023-imzali-1.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\Q4\en\eng-tab-gida-spk-raporu-31122023-imzali-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/Q4/en/tab-gida-2023-annual-report-imzali-3.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\Q4\en\tab-gida-2023-annual-report-imzali-3.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/Q4/tr/tab-gida-2023-yili-faaliyet-raporu-imzali-2.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\Q4\tr\tab-gida-2023-yili-faaliyet-raporu-imzali-2.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/Q4/tr/tab-gida-spk-raporu-31122023-imzali-2.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\Q4\tr\tab-gida-spk-raporu-31122023-imzali-2.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/TAB-Gida-Faaliyet-Raporu-30092023.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\TAB-Gida-Faaliyet-Raporu-30092023.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2023/TAB-Gida-SPK-Raporu-30092023.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2023\TAB-Gida-SPK-Raporu-30092023.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q1/TABGida1C2024AraDonemFaaliyetRaporu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q1\TABGida1C2024AraDonemFaaliyetRaporu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q1/TABGida1Q2023InterimReport.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q1\TABGida1Q2023InterimReport.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q1/TABGidaSPKraporu-31.03.2024.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q1\TABGidaSPKraporu-31.03.2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q1/TABGidaSPKRaporu-ENG-31.03.2024.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q1\TABGidaSPKRaporu-ENG-31.03.2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q2/TABGdaSPKRaporu-ENG-30.06.2024.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q2\TABGdaSPKRaporu-ENG-30.06.2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q2/TABGdaSPKRaporu30.06.2024.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q2\TABGdaSPKRaporu30.06.2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q2/TABGida2C2024AraDonemFaaliyetRaporu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q2\TABGida2C2024AraDonemFaaliyetRaporu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/finansal-bilgiler/2024/Q2/TABGida2Q2024InterimReport.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\finansal-bilgiler\2024\Q2\TABGida2Q2024InterimReport.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/fon-kullanim-raporu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\fon-kullanim-raporu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2022/genel-kurul-tutanagi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2022\genel-kurul-tutanagi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2022/hazir-bulunanlar-listesi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2022\hazir-bulunanlar-listesi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2022/TabGidaGenelKurulBilgilendirmeDokumani.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2022\TabGidaGenelKurulBilgilendirmeDokumani.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2022/TabGidaGenelKurulToplantiDaveti.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2022\TabGidaGenelKurulToplantiDaveti.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/genel-kurul-tutanagi-en.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\genel-kurul-tutanagi-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/genel-kurul-tutanagi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\genel-kurul-tutanagi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/hazir-bulunanlar-listesi-en.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\hazir-bulunanlar-listesi-en.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/hazir-bulunanlar-listesi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\hazir-bulunanlar-listesi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/TabGidaGenelKurulBilgilendirmeDokumani.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\TabGidaGenelKurulBilgilendirmeDokumani.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/TabGidaGenelKurulBilgilendirmeDokumaniEN.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\TabGidaGenelKurulBilgilendirmeDokumaniEN.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/TabGidaGenelKurulToplantiDaveti.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\TabGidaGenelKurulToplantiDaveti.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/genel-kurul/2023/TabGidaGenelKurulToplantiDavetiEN.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\genel-kurul\2023\TabGidaGenelKurulToplantiDavetiEN.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-1-esas-sozlesme.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-1-esas-sozlesme.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-10-sorumluluk-beyani.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-10-sorumluluk-beyani.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-2-ic-yonerge.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-2-ic-yonerge.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-3-bagimsiz-denetim-raporu-30062023.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-3-bagimsiz-denetim-raporu-30062023.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-3-bagimsiz-denetim-raporu-31122022-r.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-3-bagimsiz-denetim-raporu-31122022-r.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-4-tab-gida-sorumluluk-beyani.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-4-tab-gida-sorumluluk-beyani.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-5-hukukcu-raporu-pdf.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-5-hukukcu-raporu-pdf.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-6-fon-kullanim-raporu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-6-fon-kullanim-raporu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-7-katilim-finans-ilkeleri-bilgi-formu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-7-katilim-finans-ilkeleri-bilgi-formu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-8-2022-smk-26-tab-gida-makine.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-8-2022-smk-26-tab-gida-makine.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/ek-9-2022-smk-28-tabkibris-makine.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\ek-9-2022-smk-28-tabkibris-makine.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/izahname/izahname.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\izahname\izahname.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/DividendDistributionPolicy.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\DividendDistributionPolicy.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/kar-dagitim-politikasi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\kar-dagitim-politikasi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/AuditCommittee.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\AuditCommittee.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/CorporateGovernanceCommittee.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\CorporateGovernanceCommittee.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/denetimden-sorumlu-komite.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\denetimden-sorumlu-komite.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/EarlyDetectionofRiskCommittee.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\EarlyDetectionofRiskCommittee.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/kurumsal-yonetim-komitesi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\kurumsal-yonetim-komitesi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/komiteler/riskin-erken-saptanmasi-komitesi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\komiteler\riskin-erken-saptanmasi-komitesi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGida-DisclosurePolicy.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGida-DisclosurePolicy.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGida-DonationandAidPolicy.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGida-DonationandAidPolicy.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGida-RemunerationPolicy.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGida-RemunerationPolicy.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGidaBagisveYardimPolitikasi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGidaBagisveYardimPolitikasi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGidaBilgilendirmePolitikasi.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGidaBilgilendirmePolitikasi.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/kurumsal-yonetim/TABGidaUcretPolitikas.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\kurumsal-yonetim\TABGidaUcretPolitikas.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/tab-gida-fiyat-tespit-raporu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\tab-gida-fiyat-tespit-raporu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/tasarruf-sahiplerine-satis-duyurusu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\tasarruf-sahiplerine-satis-duyurusu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/Q4/en-TABGida4QandFY2023FinancialResultsRelease.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\Q4\en-TABGida4QandFY2023FinancialResultsRelease.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/Q4/tab-gida-4c-ve-fy-2023-yatrimci-sunumu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\Q4\tab-gida-4c-ve-fy-2023-yatrimci-sunumu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/Q4/tab-gida-q4andye2023annoucementpresentation.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\Q4\tab-gida-q4andye2023annoucementpresentation.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/Q4/tab-gida4c-ve-fy-2023-bilgilendirme-notu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\Q4\tab-gida4c-ve-fy-2023-bilgilendirme-notu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/TAB-Gida-3C-2023-bilgilendirme-notu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\TAB-Gida-3C-2023-bilgilendirme-notu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/TAB-Gida-3C-2023-Yatirimci-Sunumu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\TAB-Gida-3C-2023-Yatirimci-Sunumu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/TAB-Gida_3Q-2023-Earnings-Presentation.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\TAB-Gida_3Q-2023-Earnings-Presentation.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2023/TAB-Gida_3Q-2023-release.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2023\TAB-Gida_3Q-2023-release.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q1/TABGida_1C2024bilgilendirmenotu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q1\TABGida_1C2024bilgilendirmenotu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q1/TABGida_1Q2024release.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q1\TABGida_1Q2024release.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q1/TAB_Gida_1C2024_YatrmcSunumu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q1\TAB_Gida_1C2024_YatrmcSunumu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q1/TAB_Gida_Q1_Presentation2024.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q1\TAB_Gida_Q1_Presentation2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q2/TABGida_2C2024bilgilendirmenotu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q2\TABGida_2C2024bilgilendirmenotu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q2/TABGida_2Q2024financialbulletin.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q2\TABGida_2Q2024financialbulletin.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q2/TAB_Gida_2024Q2_Presentation.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q2\TAB_Gida_2024Q2_Presentation.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/cmsfiles/yatirimci-iliskileri/yatirim-sunumlari/2024/Q2/TAB_Gida_2C2024_YatrmcSunumu.pdf
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\cmsfiles\yatirimci-iliskileri\yatirim-sunumlari\2024\Q2\TAB_Gida_2C2024_YatrmcSunumu.pdf
+Content Type: application/pdf
+
+Uri: https://www.tabgida.com.tr/en
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/about-us/about-tab-gida
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\about-us\about-tab-gida.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/about-us/leaderboard
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\about-us\leaderboard.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/about-us/our-founder
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\about-us\our-founder.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/about-us/press-news
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\about-us\press-news.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/about-us/press-room
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\about-us\press-room.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/awards/arbys
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\awards\arbys.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/awards/burger-king
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\awards\burger-king.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/awards/popeyes
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\awards\popeyes.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/awards/sbarro
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\awards\sbarro.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/awards/tab-gida
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\awards\tab-gida.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/internal-communication
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\internal-communication.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/internship-opportunities
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\internship-opportunities.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/job-application
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\job-application.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/job-application-form
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\job-application-form.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/tab-academy
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\tab-academy.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/career/working-at-tab-gida
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\career\working-at-tab-gida.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/contact
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\contact.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/franchising/general-info
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\franchising\general-info.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/franchising/investment-conditions
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\franchising\investment-conditions.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/corporate-governance
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\corporate-governance.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/financial-information
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\financial-information.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/frequently-asked-questions
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\frequently-asked-questions.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/general-assembly
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\general-assembly.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/investor-presentations
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\investor-presentations.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/ipo-information
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\ipo-information.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/investor-relations/public-disclosure-announcements
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\investor-relations\public-disclosure-announcements.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/arbys
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\arbys.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/burger-king
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\burger-king.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/doner-stop
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\doner-stop.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/popeyes
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\popeyes.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/sbarro
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\sbarro.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/subway
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\subway.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/usta-donerci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\usta-donerci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/en/our-brands/usta-pideci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\en\our-brands\usta-pideci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/favicon.ico
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.tabgida.com.tr/favicon.png
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\favicon.png
+Content Type: image/png
+
+Uri: https://www.tabgida.com.tr/tr
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/arbys
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\arbys.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/burger-king
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\burger-king.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/genel-bilgi
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\genel-bilgi.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/popeyes
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\popeyes.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/sbarro
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\sbarro.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/sss
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\sss.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/subway
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\subway.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/usta-donerci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\usta-donerci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/usta-pideci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\usta-pideci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/franchising/yatirim-sartlari
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\franchising\yatirim-sartlari.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/hakkimizda/basin-odasi
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\hakkimizda\basin-odasi.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/hakkimizda/haberler
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\hakkimizda\haberler.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/hakkimizda/kurucumuz
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\hakkimizda\kurucumuz.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/hakkimizda/tab-gida-hakkinda
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\hakkimizda\tab-gida-hakkinda.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/hakkimizda/yonetim
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\hakkimizda\yonetim.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/iletisim
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\iletisim.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/is-basvuru-formu
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\is-basvuru-formu.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/is-basvuru-formu-aydinlatma-metni
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\is-basvuru-formu-aydinlatma-metni.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/is-basvurusu
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\is-basvurusu.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/sirket-ici-iletisim
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\sirket-ici-iletisim.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/staj-olanaklari
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\staj-olanaklari.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/tab-akademi
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\tab-akademi.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/kariyer/tab-gidada-calismak
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\kariyer\tab-gidada-calismak.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/arbys
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\arbys.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/burger-king
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\burger-king.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/doner-stop
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\doner-stop.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/popeyes
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\popeyes.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/sbarro
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\sbarro.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/subway
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\subway.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/usta-donerci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\usta-donerci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/markalarimiz/usta-pideci
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\markalarimiz\usta-pideci.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/odullerimiz/arbys
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\odullerimiz\arbys.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/odullerimiz/burger-king
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\odullerimiz\burger-king.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/odullerimiz/popeyes
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\odullerimiz\popeyes.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/odullerimiz/sbarro
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\odullerimiz\sbarro.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/odullerimiz/tab-gida
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\odullerimiz\tab-gida.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/surdurulebilirlik/deger-alanlarimiz
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\surdurulebilirlik\deger-alanlarimiz.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/surdurulebilirlik/gezegen
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\surdurulebilirlik\gezegen.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/surdurulebilirlik/gida
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\surdurulebilirlik\gida.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/surdurulebilirlik/insan
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\surdurulebilirlik\insan.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/surdurulebilirlik/sertifikalar
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\surdurulebilirlik\sertifikalar.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yasal-bildiri
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yasal-bildiri.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/finansal-bilgiler
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\finansal-bilgiler.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/genel-kurul
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\genel-kurul.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/halka-arz-bilgileri
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\halka-arz-bilgileri.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/izahname
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\izahname.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/kurumsal-yonetim
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\kurumsal-yonetim.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/ozel-durum-aciklamalari
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\ozel-durum-aciklamalari.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/sik-sorulan-sorular
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\sik-sorulan-sorular.html
+Content Type: text/html
+
+Uri: https://www.tabgida.com.tr/tr/yatirimci-iliskileri/yatirimci-sunumlari
+File Name: C:\Downloaded Web Sites\www.tabgida.com.tr\tr\yatirimci-iliskileri\yatirimci-sunumlari.html
+Content Type: text/html
+
